@@ -1,0 +1,416 @@
+{
+  "Badgers": {
+    "year": 2008,
+    "age": "Golden Age",
+    "rarity": "Legendary",
+    "link": "https://www.youtube.com/watch?v=EIyixC9NsLI"
+  },
+  "Narwhals": {
+    "year": 2009,
+    "age": "Golden Age",
+    "rarity": "Mythic",
+    "link": "https://www.youtube.com/watch?v=ykwqXuMPsoc"
+  },
+  "Crab Rave": {
+    "year": 2018,
+    "age": "Dank Era",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=cE0wfjsybIQ"
+  },
+  "Howard the Alien": {
+    "year": 2018,
+    "age": "Dank Era",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=WxrQ3SqSt6Q"
+  },
+  "Fabulous Secret Powers": {
+    "year": 2007,
+    "age": "Golden Age",
+    "rarity": "Legendary",
+    "link": "https://www.youtube.com/watch?v=ZZ5LpwO-An4"
+  },
+  "All Your Base Are Belong To Us": {
+    "year": 2001,
+    "age": "Cambrian Period",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=qItugh-fFgg"
+  },
+  "The HampsterDance Song": {
+    "year": 1997,
+    "age": "Cambrian Period",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=H9K8-3PHZOU"
+  },
+  "Gabe the Dog": {
+    "year": 2013,
+    "age": "Silver Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=OLmKxHt6ewE"
+  },
+  "Scott Bradford": {
+    "year": 2008,
+    "age": "Golden Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=Pbkn21NNduc"
+  },
+  "Keyboard Cat": {
+    "year": 2007,
+    "age": "Golden Age",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=J---aiyznGQ"
+  },
+  "Jamal": {
+    "year": 2014,
+    "age": "Silver Age",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=7Zm1hPbmzPw"
+  },
+  "Leeroy Jenkins": {
+    "year": 2005,
+    "age": "Golden Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=mLyOj_QD4a4"
+  },
+  "DOOR STUCK!": {
+    "year": 2007,
+    "age": "Golden Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=VqB1uoDTdKM"
+  },
+  "future gen. consels wii2 ps4 xbox720?": {
+    "year": 2008,
+    "age": "Golden Age",
+    "rarity": "Legendary",
+    "link": "https://www.youtube.com/watch?v=rzLIUgnKY40"
+  },
+  "Stop It": {
+    "year": 2010,
+    "age": "Golden Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=rb8z2BMrd60"
+  },
+  "Diabeetus": {
+    "year": 2015,
+    "age": "Silver Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=m6CeGgzaGSE"
+  },
+  "yeah boy": {
+    "year": 2015,
+    "age": "Silver Age",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=fvtQYsckLxk"
+  },
+  "Gunga Ginga": {
+    "year": 2019,
+    "age": "Dank Era",
+    "rarity": "Mythic",
+    "link": "https://www.youtube.com/watch?v=wL8yvZDF6RA"
+  },
+  "a normal human reaction to tragedy": {
+    "year": 2022,
+    "age": "Surrealist Period",
+    "rarity": "Mythic",
+    "link": "https://www.youtube.com/watch?v=Frazx5zxScE"
+  },
+  "DEDOTATED WAM": {
+    "year": 2013,
+    "age": "Silver Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=wsO-Td0hqXo"
+  },
+  "we like to party": {
+    "year": 2014,
+    "age": "Silver Age",
+    "rarity": "Mythic",
+    "link": "https://www.youtube.com/watch?v=b8HO6hba9ZE"
+  },
+  "Coffin Dance": {
+    "year": 2020,
+    "age": "Dank Era",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=j9V78UbdzWI"
+  },
+  "Pen Pineapple Apple Pen": {
+    "year": 2016,
+    "age": "Silver Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=Ct6BUPvE2sM"
+  },
+  "pizza time": {
+    "year": 2018,
+    "age": "Dank Era",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=lpvT-Fciu-4"
+  },
+  "AHHHHH": {
+    "year": 2017,
+    "age": "Dank Era",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=yBLdQ1a4-JI"
+  },
+  "Youtube Rewind 2018": {
+    "year": 2018,
+    "age": "Dank Era",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=YbJOTdZBX1g"
+  },
+  "oh my gah": {
+    "year": 2023,
+    "age": "Brainrot Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=fzDZrPZ8s5c"
+  },
+  "Bouncing Seals": {
+    "year": 2020,
+    "age": "Surrealist Period",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=VlTo9Z94XQ0"
+  },
+  "le fishe": {
+    "year": 2020,
+    "age": "Surrealist Period",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=lPGipwoJiOM"
+  },
+  "Are these the world's most crispy fries?": {
+    "year": 2021,
+    "age": "Surrealist Period",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=F0gsKF0dYrc"
+  },
+  "Ocean Background Reels/Shorts": {
+    "year": 2023,
+    "age": "Brainrot Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=5k3ea9esB9Q"
+  },
+  "Crazy Frog": {
+    "year": 2009,
+    "age": "Golden Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=k85mRPqvMbE"
+  },
+  "Fallen Kingdom - A Minecraft Parody": {
+    "year": 2012,
+    "age": "Silver Age",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=I-sH53vXP2A"
+  },
+  "We live, we love, we lie": {
+    "year": 2023,
+    "age": "Brainrot Age",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=Wjavakm7gMQ"
+  },
+  "Whistle": {
+    "year": 2023,
+    "age": "Brainrot Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=BbeeuzU5Qc8"
+  },
+  "Numa Numa": {
+    "year": 2004,
+    "age": "Cambrian Period",
+    "rarity": "Mythic",
+    "link": "https://www.youtube.com/watch?v=Cqd1Gvq-RBY"
+  },
+  "What are those": {
+    "year": 2015,
+    "age": "Silver Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=HNtz05bhI1k"
+  },
+  "Best Cry Ever": {
+    "year": 2010,
+    "age": "Golden Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=ee925OTFBCA"
+  },
+  "A lot of damage": {
+    "year": 2017,
+    "age": "Dank Era",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=7zpxgyG7eGk"
+  },
+  "nyoooooooooooom": {
+    "year": 2015,
+    "age": "Silver Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=wAUK9hVgmNI"
+  },
+  "Driving to the banana store": {
+    "year": 2021,
+    "age": "Surrealist Period",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=od_PmtmMDV0"
+  },
+  "Pufferfish Eats Carrot": {
+    "year": 2019,
+    "age": "Dank Era",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=axiGV09C85A"
+  },
+  "I like turtles": {
+    "year": 2007,
+    "age": "Golden Age",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=CMNry4PE93Y"
+  },
+  "Misinput": {
+    "year": 2021,
+    "age": "Surrealist Period",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=B0ed2CMuycg"
+  },
+  "Speedrunner": {
+    "year": 2020,
+    "age": "Surrealist Period",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=6oMUiZXYQC4"
+  },
+  "Sike! that's the wrong number": {
+    "year": 2014,
+    "age": "Silver Age",
+    "rarity": "Mythic",
+    "link": "https://www.youtube.com/watch?v=GPXkjtpGCFI"
+  },
+  "Have you ever had a dream like this?": {
+    "year": 2011,
+    "age": "Golden Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=G7RgN9ijwE4"
+  },
+  "Caramelldansen": {
+    "year": 2001,
+    "age": "Cambrian Period",
+    "rarity": "Legendary",
+    "link": "https://www.youtube.com/watch?v=6-8E4Nirh9s"
+  },
+  "Mom get the camera": {
+    "year": 2011,
+    "age": "Golden Age",
+    "rarity": "Mythic",
+    "link": "https://www.youtube.com/watch?v=mLRbZJS5A_E"
+  },
+  "Rickroll": {
+    "year": 2009,
+    "age": "Golden Age",
+    "rarity": "Legendary",
+    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  "MLG": {
+    "year": 2014,
+    "age": "Silver Age",
+    "rarity": "Mythic",
+    "link": "https://www.youtube.com/watch?v=9sW4pGe02r8"
+  },
+  "Wow": {
+    "year": 2014,
+    "age": "Silver Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=zqTwOoElxBA"
+  },
+  "Doot": {
+    "year": 2016,
+    "age": "Dank Era",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=WTWyosdkx44"
+  },
+  "Gamecube Intro": {
+    "year": 2018,
+    "age": "Dank Era",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=CpmYW-gCSy4"
+  },
+  "My name is Jeff": {
+    "year": 2014,
+    "age": "Silver Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=AfIOBLr1NDU"
+  },
+  "Damn Daniel": {
+    "year": 2016,
+    "age": "Silver Age",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=X3oDvz4YauE"
+  },
+  "Keemstar Screaming": {
+    "year": 2017,
+    "age": "Dank Era",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=wIzuO0DF-iA"
+  },
+  "Meowl": {
+    "year": 2025,
+    "age": "Brainrot Age",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=N0IkgKHdgIc"
+  },
+  "Low Taper Fade": {
+    "year": 2024,
+    "age": "Brainrot Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=ryNMM5pMPr0"
+  },
+  "Locked In Alien": {
+    "year": 2024,
+    "age": "Brainrot Age",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=45Xkbwn1p-E"
+  },
+  "I Like My Cheese Drippy": {
+    "year": 2024,
+    "age": "Brainrot Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=YG-RibOEHiE"
+  },
+  "Minecraft Movie": {
+    "year": 2025,
+    "age": "Brainrot Age",
+    "rarity": "Common",
+    "link": "https://www.youtube.com/watch?v=qWHL6PIUGZg"
+  },
+  "Now now now now now": {
+    "year": 2016,
+    "age": "Silver Age",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=z6eX_kdaAk0"
+  },
+  "Say Colorado!": {
+    "year": 2016,
+    "age": "Silver Age",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=8n-8TGxKdzQ"
+  },
+  "I Have the Power": {
+    "year": 2017,
+    "age": "Dank Era",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=2qVHFNtxX-o"
+  },
+  "Raining Tacos": {
+    "year": 2012,
+    "age": "Silver Age",
+    "rarity": "Legendary",
+    "link": "https://www.youtube.com/watch?v=npjF032TDDQ"
+  },
+  "The Duck Song": {
+    "year": 2009,
+    "age": "Golden Age",
+    "rarity": "Mythic",
+    "link": "https://www.youtube.com/watch?v=MtN1YnoL46Q"
+  },
+  "Green Green": {
+    "year": 2021,
+    "age": "Surrealist Period",
+    "rarity": "Rare",
+    "link": "https://www.youtube.com/watch?v=OaFk8XkgZik"
+  },
+  "Weather Boy": {
+    "year": 2018,
+    "age": "Dank Era",
+    "rarity": "Uncommon",
+    "link": "https://www.youtube.com/watch?v=XOi2jFIhZhA"
+  }
+}
